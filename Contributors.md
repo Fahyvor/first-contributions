@@ -7,6 +7,7 @@
 - [Ayush_Chaudhari](https://github.com/the-bokya)
 - [Aleks_Lucenko](https://github.com/alekslucenko)
 - [Adam_Logman](https://github.com/adamlquman)
+- [Favour Okafor] (https://github.com/fahyvor)
 - [Brijesh_Roy]  (https://github.com/brijeshroy)
 - [Raj sharma](https://github.com/lluciferr)
 - [Conaitus](https://github.com/conaitus)
